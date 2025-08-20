@@ -1,6 +1,6 @@
 //A program to implement ragged arrays
 import java.util.*;
-public class Driver1
+public class Ragged
 {
 	public static void main(String args[])
 	{
